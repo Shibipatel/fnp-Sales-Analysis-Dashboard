@@ -88,5 +88,4 @@ The dashboard allows users to filter and analyze data based on:
 
 ---
 
-## 📁 Files in this Repository
 <img width="1567" height="639" alt="Screenshot 2025-10-08 103422" src="https://github.com/user-attachments/assets/4b9b2ae3-ca74-46bc-9b76-ebb6948e92af" />
